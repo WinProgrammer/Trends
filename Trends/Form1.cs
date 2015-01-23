@@ -20,5 +20,10 @@ namespace Trends
 		{
 			MessageBox.Show("Hello");
 		}
+
+		private void btnSayGoodbye_Click(object sender, EventArgs e)
+		{
+			MessageBox.Show("Goodbye");
+		}
 	}
 }
